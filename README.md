@@ -1,5 +1,7 @@
 # CalcImposto
 
+---
+
 ## API de Calculadora de Imposto para Trabalhador CLT
 
 Esta é uma API RESTful desenvolvida em Java com Spring Boot que oferece uma calculadora de impostos para trabalhadores com regime CLT (Consolidação das Leis do Trabalho). A API permite aos clientes calcular automaticamente os impostos sobre o salário informado, incluindo INSS (Instituto Nacional do Seguro Social) e IRRF (Imposto de Renda Retido na Fonte), além de fornecer endpoints para consulta dos resultados dos cálculos.
